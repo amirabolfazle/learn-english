@@ -1,0 +1,52 @@
+body {
+    background-color: antiquewhite;
+}
+
+p {
+    font-family: 'b koodak';
+    border: 1px solid black;
+}
+
+input {
+    font-family: 'b koodak';
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+table,th,td,tr,h6 {
+    border: 2px solid white;
+    border-radius: 20%;
+    border-style: groove;
+    border-color: aliceblue;
+}
+
+button {
+    font-family: 'b titr';
+    font-size: 80%;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+h1 {
+    font-family: 'b titr';
+}
+
+h2 {
+    font-family: 'b titr';
+}
+
+h3 {
+    font-family: 'b titr';
+}
+
+h4 {
+    font-family: 'b titr';
+}
+
+h5 {
+    font-family: 'b titr';
+}
+
+h6 {
+    font-family: 'b titr';
+}

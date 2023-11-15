@@ -1,0 +1,75 @@
+.english {
+    font-family: 'Comic Sans MS';
+}
+
+.persian {
+    font-family: 'b koodak';
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+p {
+    font-family: 'b koodak';
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+    padding-left: 20pt;
+    padding-right: 20pt;
+}
+
+input {
+    font-family: 'b koodak';
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+}
+
+table,th,tr {
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 15px;
+    border-style: groove;
+}
+
+td {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.418);
+}
+
+button {
+    font-family: 'b titr';
+    font-size: 80%;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: white;
+}
+
+h1 {
+    font-family: 'b titr';
+}
+
+h2 {
+    font-family: 'b titr';
+}
+
+h3 {
+    font-family: 'b titr';
+}
+
+h4 {
+    font-family: 'b titr';
+}
+
+h5 {
+    font-family: 'b titr';
+}
+
+h6 {
+    font-family: 'b titr';
+}
